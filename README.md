@@ -2,7 +2,7 @@
 
 An interactive Excel MIS dashboard built from messy sales data for a fictional retail company, **BrightMart Retail Pvt. Ltd.** The project covers the full MIS workflow: cleaning raw data with Power Query, building KPIs with DAX, creating an interactive dashboard, and writing business insights for management.
 
-![Dashboard overview](screenshots/01_dashboard_overview.png)
+![Dashboard overview](01_dashboard_overview.png)
 
 ## Business problem
 
@@ -81,8 +81,8 @@ Raw data problems found and fixed in Power Query:
 - Slicers for Region, Category, Segment and Year, plus a date timeline, all connected to every pivot
 - Monthly trend (sales + margin on a secondary axis), Top 10 products, profit by sub-category, discount vs margin, region, segment and category charts
 
-![Filtered by 2024](screenshots/02_dashboard_2024.png)
-![Filtered by West region](screenshots/03_dashboard_west.png)
+![Filtered by 2024](02_dashboard_2024.png)
+![Filtered by West region](03_dashboard_west.png)
 
 ## Key insights
 
@@ -100,15 +100,14 @@ Raw data problems found and fixed in Power Query:
 
 ```
 ├── README.md
-├── data/        Messy raw data (starting point)
-├── excel/       Final dashboard workbook
-├── screenshots/ Dashboard images
-└── docs/        Data dictionary, cleaning log
+├── Messy raw data (starting point)
+├── Final dashboard workbook
+└── screenshots/ Dashboard images
 ```
 
 ## How to use
 
-1. Download `excel/BrightMart_Sales_MIS_Dashboard.xlsx` (Excel 365 or 2021 recommended for dynamic array formulas).
+1. Download `BrightMart_Sales_MIS_Dashboard.xlsx` (Excel 365 or 2021 recommended for dynamic array formulas).
 2. Click **Data → Refresh All** to rerun the Power Query cleaning.
 3. Use the slicers on the **Dashboard** sheet to explore.
 
@@ -121,4 +120,4 @@ Raw data problems found and fixed in Power Query:
 ## Author
 
 **[YOUR NAME]**, aspiring MIS Executive / Data Analyst
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
+`[LinkedIn](https://www.linkedin.com/in/your-profile)` · [Email](mailto:shelar.lahu24@gmail.com)
