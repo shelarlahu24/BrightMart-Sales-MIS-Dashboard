@@ -102,7 +102,7 @@ Raw data problems found and fixed in Power Query:
 ├── README.md
 ├── Messy raw data (starting point)
 ├── Final dashboard workbook
-└── screenshots/ Dashboard images
+└── Dashboard images
 ```
 
 ## How to use
@@ -119,5 +119,5 @@ Raw data problems found and fixed in Power Query:
 
 ## Author
 
-**[YOUR NAME]**, aspiring MIS Executive / Data Analyst
-`[LinkedIn](https://www.linkedin.com/in/your-profile)` · [Email](mailto:shelar.lahu24@gmail.com)
+**LAHU LAXMAN SHELAR**, aspiring MIS Executive / Data Analyst
+[Email](mailto:shelar.lahu24@gmail.com)
